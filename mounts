@@ -1,0 +1,22 @@
+cat /proc/mounts 
+rootfs / rootfs ro,relatime 0 0
+tmpfs /dev tmpfs rw,nosuid,relatime,mode=755 0 0
+devpts /dev/pts devpts rw,relatime,mode=600 0 0
+proc /proc proc rw,relatime 0 0
+sysfs /sys sysfs rw,relatime 0 0
+none /acct cgroup rw,relatime,cpuacct 0 0
+tmpfs /mnt/secure tmpfs rw,relatime,mode=700 0 0
+tmpfs /mnt/asec tmpfs rw,relatime,mode=755,gid=1000 0 0
+tmpfs /mnt/obb tmpfs rw,relatime,mode=755,gid=1000 0 0
+none /dev/cpuctl cgroup rw,relatime,cpu 0 0
+/emmc@android /system ext4 ro,noatime,noauto_da_alloc,commit=1,data=ordered 0 0
+/emmc@usrdata /data ext4 rw,nosuid,nodev,noatime,discard,noauto_da_alloc,data=ordered 0 0
+/emmc@cache /cache ext4 rw,nosuid,nodev,noatime,discard,noauto_da_alloc,data=ordered 0 0
+/dev/block/loop0 /mnt/cd-rom iso9660 ro,relatime 0 0
+/emmc@protect_f /protect_f ext4 rw,nosuid,nodev,noatime,nodelalloc,noauto_da_alloc,commit=1,data=ordered 0 0
+/emmc@protect_s /protect_s ext4 rw,nosuid,nodev,noatime,nodelalloc,noauto_da_alloc,commit=1,data=ordered 0 0
+/dev/block/dm-0 /mnt/asec/com.touchtype.swiftkey-1 ext4 ro,dirsync,nosuid,nodev,noatime 0 0
+/dev/block/vold/179:8 /storage/sdcard0 vfat rw,dirsync,nosuid,nodev,noexec,relatime,uid=1000,gid=1015,fmask=0702,dmask=0702,allow_utime=0020,codepage=cp437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro 0 0
+/dev/block/vold/179:8 /mnt/secure/asec vfat rw,dirsync,nosuid,nodev,noexec,relatime,uid=1000,gid=1015,fmask=0702,dmask=0702,allow_utime=0020,codepage=cp437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro 0 0
+tmpfs /storage/sdcard0/.android_secure tmpfs ro,relatime,size=0k,mode=000 0 0
+
