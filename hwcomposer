@@ -1,0 +1,17 @@
+I/hwcomposer_v1.0(  133): [DPY] Display Information:
+I/hwcomposer_v1.0(  133): [DPY] # fo devices : 1
+I/hwcomposer_v1.0(  133): [DPY] ----------------------
+I/hwcomposer_v1.0(  133): [DPY] Device id   : 0
+I/hwcomposer_v1.0(  133): [DPY] Width       : 720
+I/hwcomposer_v1.0(  133): [DPY] Height      : 1280
+I/hwcomposer_v1.0(  133): [DPY] xdpi        : 320.000000
+I/hwcomposer_v1.0(  133): [DPY] ydpi        : 320.000000
+I/hwcomposer_v1.0(  133): [DPY] vsync       : 1
+I/hwcomposer_v1.0(  133): [DPY] refresh     : 16048787
+I/hwcomposer_v1.0(  133): [DPY] connected   : 1
+W/hwcomposer_v1.0(  133): [EVENT] HW VSync State(1)
+I/hwcomposer_v1.0(  133): [EVENT] Set priority to RR: 268435543
+D/SRS_Spools(  137): 1 for Protect
+I/SurfaceFlinger(  133): Using composer version 1.0
+I/hwcomposer_v1.0(  133): [WKR] Set priority to RR: 268435543
+
