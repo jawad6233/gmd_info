@@ -1,0 +1,25 @@
+I/SurfaceFlinger(  133): EGL informations:
+I/SurfaceFlinger(  133): vendor    : Android
+I/SurfaceFlinger(  133): version   : 1.4 Android META-EGL
+I/SurfaceFlinger(  133): extensions: EGL_KHR_image EGL_KHR_image_base EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_im
+age EGL_KHR_fence_sync EGL_ANDROID_image_native_buffer 
+I/SurfaceFlinger(  133): Client API: OpenGL_ES
+I/SurfaceFlinger(  133): EGLSurface: 8-8-8-8, config=0x2
+I/SurfaceFlinger(  133): OpenGL ES informations:
+I/SurfaceFlinger(  133): vendor    : Imagination Technologies
+I/SurfaceFlinger(  133): renderer  : PowerVR SGX 544MP
+I/SurfaceFlinger(  133): version   : OpenGL ES-CM 1.1
+I/SurfaceFlinger(  133): extensions: GL_EXT_debug_marker GL_OES_byte_coordinates GL_OES_fixed_point GL_OES_single_precision GL_OES_matrix_get GL_OES_read_for
+mat GL_OES_compressed_paletted_texture GL_OES_point_sprite GL_OES_point_size_array GL_OES_matrix_palette GL_OES_draw_texture GL_OES_query_matrix GL_OES_textu
+re_env_crossbar GL_OES_texture_mirrored_repeat GL_OES_texture_cube_map GL_OES_blend_subtract GL_OES_blend_func_separate GL_OES_blend_equation_separate GL_OES
+_stencil_wrap GL_OES_extended_matrix_palette GL_OES_framebuffer_object GL_OES_rgb8_rgba8 GL_OES_depth24 GL_OES_stencil8 GL_OES_compressed_ETC1_RGB8_texture G
+L_OES_mapbuffer GL_OES_EGL_image GL_OES_EGL_image_external GL_EXT_multi_draw_arrays GL_OES_required_internalformat GL_IMG_read_format GL_IMG_texture_compress
+ion_pvrtc GL_IMG_texture_format_BGRA8888 GL_EXT_texture_format_BGRA8888 GL_OES_egl_sync GL_IMG_vertex_array_object GL_APPLE_texture_2D_limited_npot
+I/SurfaceFlinger(  133): GL_MAX_TEXTURE_SIZE = 4096
+I/SurfaceFlinger(  133): GL_MAX_VIEWPORT_DIMS = 4096 x 4096
+I/SurfaceFlinger(  133):     set priority to RR:268435540
+I/SurfaceFlinger(  133): [android::SFWatchDog::SFWatchDog()]
+I/SurfaceFlinger(  133): [virtual void android::SFWatchDog::onFirstRef()]
+I/SurfaceFlinger(  133): [uint32_t android::SFWatchDog::registerNodeName(char const*)] name=SurfaceFlinger, index=0
+I/SurfaceFlinger(  133): [virtual android::status_t android::SFWatchDog::readyToRun()]
+
