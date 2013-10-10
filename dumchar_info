@@ -1,0 +1,30 @@
+cat /proc/dumchar_info
+Part_Name	Size	StartAddr	Type	MapTo
+preloader    0x0000000000600000   0x0000000000000000   2   /dev/misc-sd
+mbr          0x0000000000080000   0x0000000000000000   2   /dev/block/mmcblk0
+ebr1         0x0000000000080000   0x0000000000080000   2   /dev/block/mmcblk0p1
+pmt          0x0000000000400000   0x0000000000100000   2   /dev/block/mmcblk0
+pro_info     0x0000000000300000   0x0000000000500000   2   /dev/block/mmcblk0
+nvram        0x0000000000500000   0x0000000000800000   2   /dev/block/mmcblk0
+protect_f    0x0000000000a00000   0x0000000000d00000   2   /dev/block/mmcblk0p2
+protect_s    0x0000000000a00000   0x0000000001700000   2   /dev/block/mmcblk0p3
+seccfg       0x0000000000020000   0x0000000002100000   2   /dev/block/mmcblk0
+uboot        0x0000000000060000   0x0000000002120000   2   /dev/block/mmcblk0
+bootimg      0x0000000000600000   0x0000000002180000   2   /dev/block/mmcblk0
+recovery     0x0000000000600000   0x0000000002780000   2   /dev/block/mmcblk0
+sec_ro       0x0000000000600000   0x0000000002d80000   2   /dev/block/mmcblk0p4
+misc         0x0000000000080000   0x0000000003380000   2   /dev/block/mmcblk0
+logo         0x0000000000300000   0x0000000003400000   2   /dev/block/mmcblk0
+ebr2         0x0000000000080000   0x0000000003700000   2   /dev/block/mmcblk0
+expdb        0x0000000000a00000   0x0000000003780000   2   /dev/block/mmcblk0
+android      0x0000000040000000   0x0000000004180000   2   /dev/block/mmcblk0p5
+cache        0x0000000018000000   0x0000000044180000   2   /dev/block/mmcblk0p6
+usrdata      0x0000000080000000   0x000000005c180000   2   /dev/block/mmcblk0p7
+fat          0x00000002c65a0000   0x00000000dc180000   2   /dev/block/mmcblk0p8
+bmtpool      0x0000000001500000   0x00000000ff9f00a8   2   /dev/block/mmcblk0
+Part_Name:Partition name you should open;
+Size:size of partition
+StartAddr:Start Address of partition;
+Type:Type of partition(MTD=1,EMMC=2)
+MapTo:actual device you operate
+
