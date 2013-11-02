@@ -1,0 +1,37 @@
+OMX.MTK.
+OMX.MTK.index.param.video.EncSetForceIframe
+setConfig('OMX.MTK.index.param.video.EncSetForceIframe') returned error 0x%08x
+OMX.MTK.VIDEO.ENCODER
+OMX.MTK.index.param.video.EncSetIFrameRate
+setConfig('OMX.MTK.index.param.video.EncSetIFrameRate') returned error 0x%08x
+!(format.eColorFormat == OMX_COLOR_FormatYUV420Planar || format.eColorFormat == OMX_COLOR_FormatYUV420SemiPlanar || format.eColorFormat == OMX_COLOR_FormatCbYCrY || format.eColorFormat == OMX_TI_COLOR_FormatYUV420PackedSemiPlanar || format.eColorFormat == OMX_MTK_COLOR_FormatYV12 || format.eColorFormat == OMX_COLOR_FormatVendorMTKYUV || format.eColorFormat == OMX_QCOM_COLOR_FormatYVU420SemiPlanar)
+frameworks/av/media/libstagefright/ACodec.cpp:1728 CHECK(format.eColorFormat == OMX_COLOR_FormatYUV420Planar || format.eColorFormat == OMX_COLOR_FormatYUV420SemiPlanar || format.eColorFormat == OMX_COLOR_FormatCbYCrY || format.eColorFormat == OMX_TI_COLOR_FormatYUV420PackedSemiPlanar || format.eColorFormat == OMX_MTK_COLOR_FormatYV12 || format.eColorFormat == OMX_COLOR_FormatVendorMTKYUV || format.eColorFormat == OMX_QCOM_COLOR_FormatYVU420SemiPlanar) failed.
+OMX.MTK.index.param.video.StreamingMode
+MTK-ASYNC-RTSP-PAUSE-PLAY
+MTK-HTTP-CACHE-SIZE
+MTK-RTSP-CACHE-SIZE
+OMX.MTK.AUDIO.DECODER.WMA
+OMX.MTK.AUDIO.DECODER.APE
+OMX.MTK.VIDEO.DECODER
+[%s] setConfig('OMX.MTK.index.param.video.EncSetForceIframe') returned error 0x%08x
+OMX.MTK.index.param.video.SwitchBwTVout
+[%s] setConfig('OMX.MTK.index.param.video.SwitchBwTVout') returned error 0x%08x
+!(format.eColorFormat == OMX_COLOR_FormatYUV420Planar || format.eColorFormat == OMX_COLOR_FormatYUV420SemiPlanar || format.eColorFormat == OMX_COLOR_FormatCbYCrY || format.eColorFormat == OMX_TI_COLOR_FormatYUV420PackedSemiPlanar || format.eColorFormat == OMX_MTK_COLOR_FormatYV12 || format.eColorFormat == OMX_COLOR_FormatVendorMTKYUV || format.eColorFormat == OMX_QCOM_COLOR_FormatYVU420SemiPlanar || format.eColorFormat == OMX_QCOM_COLOR_FormatYUV420PackedSemiPlanar64x32Tile2m8ka)
+frameworks/av/media/libstagefright/OMXCodec.cpp:1828 CHECK(format.eColorFormat == OMX_COLOR_FormatYUV420Planar || format.eColorFormat == OMX_COLOR_FormatYUV420SemiPlanar || format.eColorFormat == OMX_COLOR_FormatCbYCrY || format.eColorFormat == OMX_TI_COLOR_FormatYUV420PackedSemiPlanar || format.eColorFormat == OMX_MTK_COLOR_FormatYV12 || format.eColorFormat == OMX_COLOR_FormatVendorMTKYUV || format.eColorFormat == OMX_QCOM_COLOR_FormatYVU420SemiPlanar || format.eColorFormat == OMX_QCOM_COLOR_FormatYUV420PackedSemiPlanar64x32Tile2m8ka) failed.
+OMX.MTK.AUDIO.ENCODER.VORBIS
+OMX.MTK.AUDIO.DECODER.VORBIS
+OMX.MTK.AUDIO.ENCODER
+OMX.MTK.AUDIO.DECODER.AAC
+OMX.MTK.AUDIO.DECODER.FLAC
+OMX.MTK.VIDEO.DECODER.MPEG2
+OMX.MTK.AUDIO.DECODER.
+OMX.MTK.AUDIO.DECODER.G711
+OMX.MTK.AUDIO.DECODER.ADPCM
+OMX.MTK.AUDIO.ENCODER.ADPCM
+OMX.MTK.AUDIO.DECODER.MP3
+OMX.MTK.VIDEO.DECODER.VPX
+OMX.MTK.AUDIO.ENCODER.AMR
+MTK-RTSP-PROXY-HOST
+MTK-RTSP-PROXY-PORT
+MTK-RTSP-RTP-OVER-RTSP
+x-wap-profile: http://218.249.47.94/Xianghe/MTK_Athens15_UAProfile.xml

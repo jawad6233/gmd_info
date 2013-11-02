@@ -1,0 +1,2 @@
+ver8900~ [1st] = SensorLSC(1)?MTKLSC(2)?  %x 
+ver8900~ [[2nd]] = SensorLSC(1)?MTKLSC(2)?  %x 

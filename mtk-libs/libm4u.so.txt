@@ -1,0 +1,53 @@
+_ZN9MTKM4UDrvC2Ev
+_ZN9MTKM4UDrvD2Ev
+_ZN9MTKM4UDrv11m4u_set_regEjj
+_ZN9MTKM4UDrv11m4u_get_regEj
+_ZN9MTKM4UDrv19m4u_enable_m4u_funcE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv20m4u_disable_m4u_funcE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv27m4u_print_m4u_enable_statusEv
+_ZN9MTKM4UDrv16m4u_check_m4u_enE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv19m4u_cache_flush_allE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv19m4u_register_bufferE18M4U_MODULE_ID_ENUMjjiiPj
+_ZN9MTKM4UDrv18m4u_dump_pagetableE18M4U_MODULE_ID_ENUMjjj
+_ZN9MTKM4UDrv14m4u_cache_syncE18M4U_MODULE_ID_ENUM19M4U_CACHE_SYNC_ENUMjj
+_ZN9MTKM4UDrv13m4u_dump_infoE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv12m4u_dump_regE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv16m4u_monitor_stopE16M4U_PORT_ID_ENUM
+_ZN9MTKM4UDrv17m4u_monitor_startE16M4U_PORT_ID_ENUM
+_ZN9MTKM4UDrv25m4u_reset_mva_release_tlbE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv23m4u_config_port_rotatorEP17_M4U_PORT_ROTATOR
+_ZN9MTKM4UDrv15m4u_config_portEP9_M4U_PORT
+_ZN9MTKM4UDrv23m4u_manual_insert_entryE18M4U_MODULE_ID_ENUMjb
+_ZN9MTKM4UDrv19m4u_invalid_tlb_allE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv21m4u_invalid_tlb_rangeE18M4U_MODULE_ID_ENUMjj
+_ZN9MTKM4UDrv20m4u_insert_tlb_rangeE18M4U_MODULE_ID_ENUMjj23M4U_RANGE_PRIORITY_ENUMj
+_ZN9MTKM4UDrv24m4u_insert_wrapped_rangeE18M4U_MODULE_ID_ENUM16M4U_PORT_ID_ENUMjj
+_ZN9MTKM4UDrv15m4u_dealloc_mvaE18M4U_MODULE_ID_ENUMjjj
+_ZN9MTKM4UDrv13m4u_query_mvaE18M4U_MODULE_ID_ENUMjjPj
+_ZN9MTKM4UDrv13m4u_alloc_mvaE18M4U_MODULE_ID_ENUMjjiiPj
+_ZN9MTKM4UDrv13m4u_power_offE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv12m4u_power_onE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv7mUseM4UE
+_ZN9MTKM4UDrvC1Ev
+_ZN9MTKM4UDrvD1Ev
+ ioctl MTK_M4U_T_M4UDrv_CONSTRUCT fail! %d, %s 
+ ioctl MTK_M4U_T_M4UDrv_DECONSTRUCT fail! %d, %s 
+ ioctl MTK_M4U_T_RESET_MVA_RELEASE_TLB fail! %d, %s 
+ ioctl MTK_M4U_T_CACHE_FLUSH_ALL fail! %d, %s 
+ ioctl MTK_M4U_T_REGISTER_BUFFER fail! %d, %s 
+ ioctl MTK_M4U_T_DUMP_PAGETABLE fail! %d, %s 
+ ioctl MTK_M4U_T_CACHE_SYNC fail! %d, %s 
+ ioctl MTK_M4U_T_DUMP_INFO fail! %d, %s 
+ ioctl MTK_M4U_T_DUMP_REG fail! %d, %s 
+ ioctl MTK_M4U_T_MONITOR_STOP fail! %d, %s 
+ ioctl MTK_M4U_T_MONITOR_START fail! %d, %s 
+ ioctl MTK_M4U_T_CONFIG_PORT_ROTATOR fail! %d, %s 
+ ioctl MTK_M4U_T_CONFIG_PORT fail! %d, %s 
+ ioctl MTK_M4U_T_INVALID_TLB_ALL fail! %d, %s 
+ ioctl MTK_M4U_T_INVALID_TLB_RANGE fail! %d, %s 
+ ioctl MTK_M4U_T_INSERT_TLB_RANGE fail! %d, %s 
+ ioctl MTK_M4U_T_DEALLOC_MVA fail! %d, %s 
+ ioctl MTK_M4U_T_QUERY_MVA fail! %d, %s 
+ ioctl MTK_M4U_T_ALLOC_MVA fail! %d, %s 
+ ioctl MTK_M4U_T_POWER_OFF fail! %d, %s 
+ ioctl MTK_M4U_T_POWER_ON fail! %d, %s 

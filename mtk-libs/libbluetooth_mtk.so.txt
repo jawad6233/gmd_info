@@ -1,0 +1,1 @@
+%s: Nvram data all zero! Maybe config error of MTK_BT_CHIP

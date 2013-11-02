@@ -1,0 +1,48 @@
+_ZN11NSIspTuning6LscMgr16fillTSFLscConfigER24MTK_TSF_LSC_PARAM_STRUCTNS_13EIspProfile_TE
+_ZN11NSIspTuning6LscMgr17fillTSFInitParamsER23MTK_TSF_ENV_INFO_STRUCT
+_ZN11NSIspTuning6LscMgr26updateTSFParamByIspProfileER23MTK_TSF_ENV_INFO_STRUCTNS_13EIspProfile_TE
+_ZN11NSIspTuning6LscMgr19updateTSFInputParamER28MTK_TSF_SET_PROC_INFO_STRUCT
+_ZN6MTKTsf14createInstanceEv
+_ZN6MTKEis14createInstanceEv
+_ZN12MTKDetection14createInstanceE13DRVFDObject_s
+_ZN6MTKMav14createInstanceE14DRVMavObject_s
+_ZN6MTKHdr14createInstanceEv
+_ZN6MTKAsd14createInstanceE14DRVAsdObject_s
+_ZN13MTKFaceBeauty14createInstanceE21DRVFaceBeautyObject_s
+_ZN11halAUTORAMA21mHalAutoramaGetResultEP25MTKPipeAutoramaResultInfo
+_ZN11halAUTORAMA16mHalAutoramaInitE22MTKPipeAutoramaEnvInfo20MTKPipeMotionEnvInfo
+_ZN11halAUTORAMA22mHalAutoramaCalcStitchEPvi30MTKPIPEAUTORAMA_DIRECTION_ENUM
+_ZN11MTKAutorama14createInstanceE15DRVPanoObject_s
+_ZN9MTKMotion14createInstanceE17DRVMotionObject_s
+_ZN7MTKWarp14createInstanceE15DRVWarpObject_s
+_ZN9MTKPano3D14createInstanceE17DRVPano3DObject_s
+[%s] MTKTSF_FEATURE_GET_ENV_INFO 
+[%s()] Err: %5d:, MTKTSF_FEATURE_SET_PROC_INFO error %x
+[LscMgr:%s] Normal Capture, MTKTSF_FEATURE_SET_TBL_CHANGE
+[%s()] Err: %5d:, MTKTSF_FEATURE_SET_TBL_CHANGE error %x
+[LscMgr:%s] Normal Capture, MTKTSF_FEATURE_GEN_CAP_TBL
+[%s()] Err: %5d:, MTKTSF_FEATURE_GEN_CAP_TBL error %x
+[LscMgr:%s] MTKTSF_FEATURE_GEN_CAP_TBL complete!!
+[LscMgr:%s] Preview, MTKTSF_FEATURE_SET_TBL_CHANGE
+[%s] MTKTSF_FEATURE_BATCH Intput/Output tbl 0x%08x/0x%08x
+[LscMgr:%s] MTKTSF_FEATURE_BATCH complete!!
+[%s()] Err: %5d:, MTKTSF_FEATURE_BATCH error %x
+[%s] MTKTSF_FEATURE_SET_TBL_CHANGE 
+[%s] MTKTSF_FEATURE_SET_PROC_INFO 
+[%s()] Err: %5d:, MTKTSF_FEATURE_GET_RESULT error %x
+[LscMgr:%s] MTKTSF_FEATURE_GET_RESULT 
+{HdrHal} [%s] MTKHdr::createInstance() fail.
+{HdrHal} [%s] MTKMav::createInstance() fail.
+[mHalAutoramaInit] m_pMTKAutoramaObj Init has been called 
+[mHalAutoramaInit] m_pMTKMotionObj Init has been called 
+[mHalAutoramaCalcStitch] MTKAUTORAMA_FEATURE_SET_PROC_INFO Fail 
+[mHalAutoramaDoStitch] MTKAUTORAMA_FEATURE_SET_PROC_INFO Fail 
+[mHalAutoramaGetResult] MTKAUTORAMA_FEATURE_GET_RESULT Fail
+[mHalMavInit] m_pMTKMavObj Init has been called 
+[mHalMavInit] m_pMTKMotionObj Init has been called 
+[mHalMavInit] m_pMTKPanoMotionObj Init has been called 
+[mHalMavInit] m_pMTKWarpObj Init has been called 
+[mHalMavDoMotion] Err, m_pMTKPanoMotionObj Init has been called 
+[mHalMavDoMotion] Err, m_pMTKMotionObj Init has been called 
+[mHal3dfInit] m_pMTKMavObj Init has been called 
+[mHal3dfInit] m_pMTKMotionObj Init has been called 

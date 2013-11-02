@@ -1,0 +1,8 @@
+_ZN7android19MtkCameraParameters21APP_MODE_NAME_MTK_ENGE
+_ZN7android19MtkCameraParameters21APP_MODE_NAME_MTK_ATVE
+_ZN7android19MtkCameraParameters20APP_MODE_NAME_MTK_VTE
+_ZN7android19MtkCameraParameters23APP_MODE_NAME_MTK_PHOTOE
+_ZN7android19MtkCameraParameters23APP_MODE_NAME_MTK_VIDEOE
+_ZN7android19MtkCameraParameters21APP_MODE_NAME_MTK_ZSDE
+[CaptureCallback::%s] (%d)[%s] MTK_CAMERA_MSG_EXT_DATA_COMPRESSED_IMAGE - index(%d)
+(%d)[%s] MTK_CAMERA_MSG_EXT_DATA_COMPRESSED_IMAGE - Index:%d ShotMode:%d

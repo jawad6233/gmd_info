@@ -1,0 +1,9 @@
+_ZN7android21CONVERT_BDADDR2STRINGEPK12_MTK_BD_ADDRPc
+_ZN7android21CONVERT_STRING2BDADDREPKcP12_MTK_BD_ADDR
+MTKBT/dev_%02X_%02X_%02X_%02X_%02X_%02X
+MTKBT
+[GAP] btmtk_gap_handle_service_search_cnf: BTMTK_SDP_CREATE_DEVICE
+[GAP] btmtk_gap_handle_service_search_cnf: BTMTK_SDP_CREATE_PAIRED_DEVICE
+[GAP] btmtk_gap_handle_service_search_cnf: BTMTK_SDP_DISCOVERY
+[GAP][API] getAdapterPathNative : set object path to "MTKBT"
+MTKDEV

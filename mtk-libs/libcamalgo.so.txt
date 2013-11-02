@@ -1,0 +1,151 @@
+_ZN6MTKMav14MavFeatureCtrlEjPvS0_
+_ZN6MTKMav8MavResetEv
+_ZN6MTKMav8MavMergeEPj
+_ZN6MTKMav7MavMainEv
+_ZN6MTKMav7MavInitEPvS0_
+_ZN6MTKMav14createInstanceE14DRVMavObject_s
+_ZTV6MTKMav
+_ZN9MTKMotion10MotionInitEPvS0_
+_ZN9MTKMotion10MotionMainEv
+_ZN9MTKMotion10MotionExitEv
+_ZN9MTKMotion17MotionFeatureCtrlEjPvS0_
+_ZN9MTKMotion14createInstanceE17DRVMotionObject_s
+_ZTV9MTKMotion
+_ZN7MTKWarpD2Ev
+_ZN7MTKWarpD0Ev
+_ZN7MTKWarp15WarpFeatureCtrlEjPvS0_
+_ZN7MTKWarp9WarpResetEv
+_ZN7MTKWarp8WarpMainEv
+_ZN7MTKWarp8WarpInitEPjS0_
+_ZN7MTKWarp14createInstanceE15DRVWarpObject_s
+_ZTV7MTKWarp
+_ZN7MTKWarpD1Ev
+_ZTV6MTKAsd
+_ZN6MTKAsd14AsdFeatureCtrlEjPvS0_
+_ZN6MTKAsd7AsdMainE8ASD_PROCPv
+_ZN6MTKAsd7AsdInitEPvS0_
+_ZN6MTKAsd14createInstanceE14DRVAsdObject_s
+_ZTV11MTKAutorama
+_ZN11MTKAutorama19AutoramaFeatureCtrlEjPvS0_
+_ZN11MTKAutorama12AutoramaExitEv
+_ZN11MTKAutorama12AutoramaMainEv
+_ZN11MTKAutorama12AutoramaInitEPvS0_
+_ZN11MTKAutorama14createInstanceE15DRVPanoObject_s
+_ZN9MTKPano3DD2Ev
+_ZN9MTKPano3DD0Ev
+_ZN9MTKPano3D17Pano3DFeatureCtrlEjPvS0_
+_ZN9MTKPano3D11Pano3DResetEv
+_ZN9MTKPano3D10Pano3DMainEv
+_ZN9MTKPano3D10Pano3DInitEPvS0_
+_ZN9MTKPano3D14createInstanceE17DRVPano3DObject_s
+_ZTV9MTKPano3D
+_ZN9MTKPano3DD1Ev
+_ZN13MTKFaceBeauty21FaceBeautyFeatureCtrlEjPvS0_
+_ZN13MTKFaceBeauty14FaceBeautyExitEv
+_ZN13MTKFaceBeauty14FaceBeautyMainEv
+_ZN13MTKFaceBeauty14FaceBeautyInitEPvS0_
+_ZN13MTKFaceBeauty14createInstanceE21DRVFaceBeautyObject_s
+_ZTV13MTKFaceBeauty
+_ZN6MTKHdr7HdrInitEPvS0_
+_ZN6MTKHdr7HdrMainE19HDR_PROC_STATE_ENUM
+_ZN6MTKHdr14HdrFeatureCtrlEjPvS0_
+_ZN6MTKHdr8HdrResetEv
+_ZN6MTKHdr14createInstanceEv
+_ZN6MTKHdr15destroyInstanceEv
+_ZTV6MTKHdr
+_ZN12MTKDetection15FDVTGetSDResultEj
+_ZN12MTKDetection11FDVTGetModeEP24FDVT_OPERATION_MODE_ENUM
+_ZN12MTKDetection18FDVTSDDrawFaceRectEjjjjjh
+_ZN12MTKDetection16FDVTDrawFaceRectEjjjjjh
+_ZN12MTKDetection16FDVTGetICSResultEjjjjjjjj
+_ZN12MTKDetection13FDVTGetResultEj36FACEDETECT_TRACKING_RESULT_TYPE_ENUM
+_ZN12MTKDetection13FDVTGetFDInfoEj
+_ZN12MTKDetection17FDVTGetResultSizeEv
+_ZN12MTKDetection9FDVTResetEv
+_ZN12MTKDetection8FDVTMainEjj24FDVT_OPERATION_MODE_ENUM28FACEDETECT_GSENSOR_DIRECTIONi
+_ZN12MTKDetection8FDVTInitEP15MTKFDFTInitInfo
+_ZN12MTKDetection8FDVTInitEPj
+_ZN12MTKDetection14createInstanceE13DRVFDObject_s
+_ZTV12MTKDetection
+_ZN10AppFDFT_SW8FDVTInitEP15MTKFDFTInitInfo
+_ZN6MTKEis7EisInitEPv
+_ZN6MTKEis7EisMainEP22EIS_RESULT_INFO_STRUCT
+_ZN6MTKEis14EisFeatureCtrlEjPvS0_
+_ZN6MTKEis8EisResetEv
+_ZN6MTKEis14createInstanceEv
+_ZN6MTKEis15destroyInstanceEv
+_ZTV6MTKEis
+_ZTV6MTKTsf
+_ZN6MTKTsf14TsfFeatureCtrlEjPvS0_
+_ZN6MTKTsf7TsfExitEv
+_ZN6MTKTsf8TsfResetEv
+_ZN6MTKTsf7TsfMainEv
+_ZN6MTKTsf7TsfInitEPvS0_
+_ZN6MTKTsf14createInstanceEv
+MTKMav
+MTKMav MavInit 
+MTKMav MavMain 
+MTKMav MavMerge 
+MTKMav MavReset 
+MTKMav MavFeatureCtrl 
+[%s] MotionFeatureCtrl(MTKMOTION_FEATURE_GET_WORKBUF_SIZE): BufferSize = %d
+[%s] MotionFeatureCtrl(MTKMOTION_FEATURE_SET_WORKBUF_ADDR): BufferAddr = 0x%x
+MTKWarp
+MTKWarp WarpInit 
+MTKWarp WarpMain 
+MTKWarp WarpReset 
+MTKWarp WarpFeatureCtrl 
+MTKAsd
+MTKAsd AsdInit 
+MTKAsd AsdMain 
+MTKAsd AsdFeatureCtrl 
+[AutoramaInit][Error] state machine is not != MTKAUTORAMA_STATE_STANDBY 
+[AutoramaInit] Only support MTKAUTORAMA_IMAGE_NV21 or MTKAUTORAMA_IMAGE_YV12
+[AutoramaMain][Error] m_AutoramaCurrProcNum == 0 or m_AutoramaState(%d) != MTKAUTORAMA_STATE_ADD_IMG_READY 
+[AutoramaFeatureCtrl] MTKAUTORAMA_FEATURE_SET_ENV_INFO
+[AutoramaFeatureCtrl] MTKAUTORAMA_FEATURE_GET_ENV_INFO
+[AutoramaFeatureCtrl] MTKAUTORAMA_FEATURE_SET_PROC_INFO
+[AutoramaFeatureCtrl] MTKAUTORAMA_FEATURE_GET_RESULT
+[AutoramaFeatureCtrl][Error] m_AutoramaState(%d) != MTKAUTORAMA_STATE_STITCH_READY.
+MTKAutorama AutoramaFeatureCtrl 
+MTKAutorama AutoramaExit 
+MTKAutorama AutoramaMain 
+MTKPano PanoInit 
+MTKPano3D
+MTKPano3D Pano3DInit 
+MTKPano3D Pano3DMain 
+MTKPano3D Pano3DReset 
+MTKPano3D Pano3DFeatureCtrl 
+MTKFaceBeauty FaceBeautyFeatureCtrl 
+MTKFaceBeauty FaceBeautyExit 
+MTKFaceBeauty FaceBeautyMain 
+MTKFaceBeauty FaceBeautyInit 
+(%d)[%s] AppFaceBeauty m_FaceBeautyState = MTKFACEBEAUTY_STATE_STANDBY
+(%d)[%s] AppFaceBeauty m_FaceBeautyState = MTKFACEBEAUTY_STATE_STANDBY;
+(%d)[%s] AppFaceBeauty FaceBeautyExit m_FaceBeautyState = MTKFACEBEAUTY_STATE_STANDBY
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_FEATURE_GET_PROC_INFO
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_FEATURE_SET_PROC_INFO
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP1
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP2
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP3
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP4
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP5
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_CTRL_STEP6
+(%d)[%s] AppFaceBeauty FaceBeautyFeatureCtrl MTKFACEBEAUTY_FEATURE_GET_RESULT
+MTKDetection FDVTSDDrawFaceRect 
+MTKDetection FDVTGetResult 
+MTKDetection FDVTGetFDInfo 
+MTKDetection FDVTGetResultSize 
+MTKDetection FDVTReset 
+MTKDetection FDVTMain 
+MTKDetection FDVTInit 
+[%s][MTKTSF_FEATURE_SET_PROC_INFO] NULL ShadingTbl !
+[%s][Error] MTKTSF_FEATURE_GET_RESULT state machine incorrect!
+[%s][Error] MTKTSF_FEATURE_BATCH, Error para in core process !
+[%s][Error]MTKTSF_FEATURE_BATCH, Error para in CoreGenTbl !
+MTKTsf
+MTKTsf TsfInit 
+MTKTsf TsfMain 
+MTKTsf TsfReset 
+MTKTsf TsfExit 
+MTKTsf TsfFeatureCtrl 

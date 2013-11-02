@@ -1,0 +1,3 @@
+/dev/MTK_SMI
+[BWC E](%lu): %s(): %s@%d: Open SMI(/dev/MTK_SMI) driver file failed.:%s
+[BWC E](%lu): %s(): %s@%d: MTK_IOC_SMI_BWC_CONFIG failed.:%s

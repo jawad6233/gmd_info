@@ -1,0 +1,1 @@
+MTK_VT_VTel_jni

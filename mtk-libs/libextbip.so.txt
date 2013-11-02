@@ -1,0 +1,2 @@
+[%s] %s(%d):[BTMTK][BIP] <-- BIP_R : [PUT_IMG] : status = %s, image size = %lu, current size = %lu
+[MTKBT]

@@ -1,0 +1,2 @@
+_ZN7android13MediaProfiles25createMTKCamcorderProfileENS_17camcorder_qualityENS_14camcorder_modeENS_9camera_idE
+createMTKCamcorderProfile

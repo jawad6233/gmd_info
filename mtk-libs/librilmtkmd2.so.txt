@@ -1,0 +1,1 @@
+sim status of MTK_RIL_SOCKET_2 is %d

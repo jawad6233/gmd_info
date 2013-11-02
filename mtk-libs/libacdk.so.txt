@@ -1,0 +1,12 @@
+_ZN9MTKM4UDrv20m4u_disable_m4u_funcE18M4U_MODULE_ID_ENUM
+_ZN9MTKM4UDrv15m4u_config_portEP9_M4U_PORT
+_ZN9MTKM4UDrvD1Ev
+_ZN9MTKM4UDrvC1Ev
+_ZN9MTKM4UDrv19m4u_enable_m4u_funcE18M4U_MODULE_ID_ENUM
+{#%d:%s}Err : MTKFB_SET_VIDEO_LAYERS failed
+{#%d:%s}Err : ioctl(MTKFB_SET_VIDEO_LAYERS) failed
+{#%d:%s}Err : ioctl(MTKFB_TRIG_OVERLAY_OUT) failed
+{#%d:%s}Err : MTKFB_TRIG_OVERLAY_OUT failed
+{#%d:%s}Err : MTKFB_TRIG_OVERLAY_OUT) failed
+{#%d:%s}Err : MTKFB_REGISTER_OVERLAYBUFFER failed, err(%s), %d
+{#%d:%s}Err : MTKFB_UNREGISTER_OVERLAYBUFFER failed, err(%s), %d

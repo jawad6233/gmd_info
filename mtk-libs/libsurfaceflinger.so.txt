@@ -1,0 +1,6 @@
+_ZN7android14SurfaceFlinger16setMTKPropertiesEv
+_ZN7android14SurfaceFlinger16setMTKPropertiesERNS_7String8E
+[MTK SF part]
+[MTK GUI part]
+[MTK HWC part]
+void android::SurfaceFlinger::setMTKProperties(android::String8&)

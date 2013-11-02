@@ -1,0 +1,2 @@
+MTK_EXT_DISPLAY_ENTER enter fail
+MTK_EXT_DISPLAY_ENTER set meminfo fail

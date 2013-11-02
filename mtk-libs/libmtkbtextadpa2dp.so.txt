@@ -1,0 +1,7 @@
+[BTMTK][A2DP][func] btmtk_a2dp_appi_ngeo_config
+[BTMTK][A2DP][func] bit pool error
+[BTMTK][A2DP][func] block_len error
+[BTMTK][A2DP][func] subband_num error
+[BTMTK][A2DP][func] alloc_method error
+[BTMTK][A2DP][func] sample_rate error
+[BTMTK][A2DP][func] channel_mode error
